@@ -1,5 +1,5 @@
 context:
-  version: "0.26.0"
+  version: "0.26.1"
 
 package:
   name: prettierd
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@fsouza/prettierd/-/prettierd-${{ version }}.tgz
-  sha256: 4e99452dd2fb62971f8bf035d76af38d0af9a10ce9166f82b9a42d86b9ce0d7c
+  sha256: aae1a7c3dcdbc7e98b4aa456ad090adec954258c65308a0e7ef1c55c7f5e54c9
 
 build:
   number: 0
