@@ -4,7 +4,7 @@
 
 [project]
 name = "prettierd-feedstock"
-version = "3.45.2"
+version = "3.45.3"
 description = "Pixi configuration for conda-forge/prettierd-feedstock"
 authors = ["@conda-forge/prettierd"]
 channels = ["conda-forge"]
